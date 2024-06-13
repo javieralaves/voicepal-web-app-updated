@@ -52,7 +52,7 @@ const MobileForm = ({ handleAskClick }) => {
   };
 
   return (
-    <div className="self-stretch flex flex-col items-center justify-start w-full md:hidden">
+    <div className="self-stretch flex flex-col items-center justify-start w-full gap-3 md:hidden">
       <div className="self-stretch tracking-tight leading-6 font-extrabold">
         New question
       </div>
