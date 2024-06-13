@@ -22,7 +22,7 @@ const DesktopForm = () => {
   };
 
   return (
-    <div className="flex-1 flex flex-col items-center justify-start">
+    <div className="flex-1 flex flex-col items-center justify-start gap-3">
       <div className="self-stretch tracking-tight leading-6 font-extrabold">
         New question
       </div>
