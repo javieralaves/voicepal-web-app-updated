@@ -13,7 +13,8 @@ module.exports = {
         textprimary: "#040513",
         textsecondary: "#79858c",
         whitesmoke: "#ebebeb",
-        gray: "rgba(0, 0, 0, 0.05)",
+        // gray: "rgba(0, 0, 0, 0.05)",
+        textplaceholder: "#b6bdc2",
       },
       spacing: {},
       fontFamily: {
